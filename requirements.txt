@@ -40,6 +40,13 @@ pymdown-extensions
 
 # OpenAI and Generic plugins import
 openapi-python-client==0.13.4
+# Investing / Finance plugins import
+yfinance
+pandas
+plotly
+# Fotball betting odds imports
+matplotlib
+# My personal plugins import
 
 # Items below this point will not be included in the Docker Image
 
